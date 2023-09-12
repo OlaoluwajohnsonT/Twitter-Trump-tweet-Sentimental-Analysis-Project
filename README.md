@@ -1,4 +1,6 @@
 #Natural-Language-Proccsing-For-Trump-tweet-Sentimental-Analysis-Project
+
+
 Sentimental Analysis of People opinion on Trump On Twitter 
 
 I conducted a sentiment analysis using a dataset which contains a collection of text data sourced from Twitter. In this analysis, my primary objective was to gain insights into the sentiments expressed within this dataset, uncovering the emotions and opinions shared by Twitter users. 
