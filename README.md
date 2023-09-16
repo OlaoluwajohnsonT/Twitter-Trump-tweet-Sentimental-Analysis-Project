@@ -1,4 +1,4 @@
-#Natural-Language-Proccsing-For-Trump-tweet-Sentimental-Analysis-Project
+#Natural-Language-Proccesing-For-Trump-tweet-Sentimental-Analysis-Project
 
 
 Sentimental Analysis of People opinion on Trump On Twitter 
